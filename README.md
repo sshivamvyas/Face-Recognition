@@ -1,2 +1,4 @@
 # Face-Recognition
 Eigenfaces vs. Deep Learning for Face Recognition.
+
+This project explores and compares two different approaches to face recognition: traditional linear methods using Eigenfaces (PCA/Sparse PCA) and modern lightweight deep learning models (CNN and MobileNetV2). The objective was to assess how each performs in terms of accuracy, efficiency, and robustness against noise like lighting and pose variations. We applied PCA and Sparse PCA to reduce dimensionality, followed by classical classifiers such as SVM, Logistic Regression, and KNN. Simultaneously, we trained a 2-layer custom CNN and a pre-trained MobileNetV2 to classify facial images. Experiments were conducted on four datasets: Georgia Tech, Oral Face, Yale Faces, and Extended Yale B. Our results show that while deep learning models outperform in general, PCA-based methods still offer competitive performance with significantly lower computational cost.
