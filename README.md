@@ -15,29 +15,15 @@ A unified pipeline for evaluating traditional and deep learning-based face recog
 This project compares PCA, Sparse PCA (with SVM, Logistic Regression, KNN) against modern CNN-based methods (Custom CNN, MobileNetV2)
 on face datasets like ORL, Yale, Extended Yale B, and Georgia Tech.
 
-## 📌 Features
 
-- Supports **three dimensionality reduction methods**: PCA, Sparse PCA
-- Implements **three traditional classifiers**: SVM, Logistic Regression, KNN
-- Includes two deep learning models:
-  - **Custom CNN**
-  - **Transfer Learning using MobileNetV2**
-- Supports **four datasets**:
-  - ORL Face Dataset
-  - Yale Faces
-  - Extended Yale B
-  - Georgia Tech Face Dataset
-- **Face detection** using Haar cascades
-- Modular structure for **easy experimentation**
-- Accuracy comparison plots for **benchmarking**
 
-## 🚀 Highlights
+##  Highlights
 
-- 🔍 **Dataset Support**: ORL, Yale Faces, Extended Yale B
-- 🧪 **Techniques**: PCA, SparsePCA, CNN, MobileNetV2
-- 📈 **Classifiers**: SVM, Logistic Regression, KNN
-- 🎯 **Modular Design**: Easy to switch datasets or models
-- 📊 **Accuracy Comparison Plot**: Visualize performance
+-  **Dataset Support**: ORL, Yale Faces, Extended Yale B
+-  **Techniques**: PCA, SparsePCA, CNN, MobileNetV2
+-  **Classifiers**: SVM, Logistic Regression, KNN
+-  **Modular Design**: Easy to switch datasets or models
+-  **Accuracy Comparison Plot**: Visualize performance
 
 ---
 
