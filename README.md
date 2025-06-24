@@ -122,8 +122,10 @@ python unified_faceRecognition_pipeline.py
 | ----------- | --- | ------ | --- |
 | PCA         | 67% | 59%    | 64% |
 | Sparse PCA  | 66% | 56%    | 70% |
-| Custom CNN  | 85% | -      | -   |
-| MobileNetV2 | 92% | -      | -   |
+
+| Model       | Acc.|
+| Custom CNN  | 85% | 
+| MobileNetV2 | 92% |
 
 ---
 
