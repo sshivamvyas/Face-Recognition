@@ -16,9 +16,9 @@ on face datasets like ORL, Yale, Extended Yale B, and Georgia Tech.
 
 ##  Highlights
 
-- # **Dataset Support**: ORL, Yale Faces, Extended Yale B
-- ## **Techniques**: PCA, SparsePCA, CNN, MobileNetV2
-- ### **Classifiers**: SVM, Logistic Regression, KNN
+-  **Dataset Support**: ORL, Yale Faces, Extended Yale B
+-  **Techniques**: PCA, SparsePCA, CNN, MobileNetV2
+-  **Classifiers**: SVM, Logistic Regression, KNN
 -  **Modular Design**: Easy to switch datasets or models
 -  **Accuracy Comparison Plot**: Visualize performance
 
