@@ -11,7 +11,9 @@ Here's a **well-structured README.md** for your unified face recognition pipelin
 ```markdown
 # Unified Face Recognition Pipeline
 
-A unified pipeline for evaluating traditional and deep learning-based face recognition models on multiple datasets. This project compares PCA, Sparse PCA (with SVM, Logistic Regression, KNN) against modern CNN-based methods (Custom CNN, MobileNetV2) on face datasets like ORL, Yale, Extended Yale B, and Georgia Tech.
+A unified pipeline for evaluating traditional and deep learning-based face recognition models on multiple datasets.
+This project compares PCA, Sparse PCA (with SVM, Logistic Regression, KNN) against modern CNN-based methods (Custom CNN, MobileNetV2)
+on face datasets like ORL, Yale, Extended Yale B, and Georgia Tech.
 
 ## 📌 Features
 
