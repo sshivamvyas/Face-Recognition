@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ### Step 3: Choose Dataset and Run
 
-In `unified_cnn_pipeline.py`, change:
+In `unified_faceRecognition_pipeline.py`, change:
 
 ```python
 dataset = 'oralface'  # Options: 'oralface', 'extended', 'yalefaces', 'georgia'
@@ -117,7 +117,7 @@ dataset = 'oralface'  # Options: 'oralface', 'extended', 'yalefaces', 'georgia'
 Then execute:
 
 ```bash
-python unified_cnn_pipeline.py
+python unified_faceRecognition_pipeline.py
 ```
 
 ---
