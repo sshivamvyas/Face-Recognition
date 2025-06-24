@@ -44,17 +44,17 @@ on face datasets like ORL, Yale, Extended Yale B, and Georgia Tech.
 
 📁 Make sure your dataset directory is structured as follows (example for ORL):
 
-```
+
 
 /kaggle/input/oral-face-at-and-t/s1/1.pgm
 /kaggle/input/yaledata/subject01.happy.gif
 /kaggle/input/extended-yale-face-b/cropped/yaleB01/...
 
-````
+
 
 ---
 
-## 🧠 Models & Pipelines
+##  Models & Pipelines
 
 ### 1. PCA / Sparse PCA Pipelines
 - Images are flattened and transformed using PCA or SparsePCA
@@ -122,25 +122,8 @@ python unified_cnn_pipeline.py
 
 ---
 
-## 📊 Output
 
-* Accuracy printed for each classifier and method
-* Bar graph comparing all accuracies across models
 
-![Accuracy Comparison](./sample_accuracy_plot.png)
-
----
-
-## 📌 Sample Images
-
-| Dataset         | Sample Image                                 |
-| --------------- | -------------------------------------------- |
-| ORL Face        | ![orl](./samples/orl_sample.png)             |
-| Yale Face       | ![yale](./samples/yale_sample.png)           |
-| Extended Yale B | ![eyale](./samples/extended_yale_sample.png) |
-| Georgia Tech    | ![gt](./samples/georgia_sample.png)          |
-
----
 
 ## 📈 Results Snapshot (Example: ORL Dataset)
 
